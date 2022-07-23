@@ -1,0 +1,5 @@
+name: Seraphits
+type: module
+description: "New Seraphitas module prod by Nikhz"
+package: Sample
+core_version_requirement: ^8 || ^9

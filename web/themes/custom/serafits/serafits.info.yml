@@ -1,0 +1,15 @@
+name: Serafits Theme
+type: theme
+description: another awesome theme in digital industy
+package: Custom
+base theme: stable
+core_version_requirement: ^8 || ^9
+libraries:
+  - serafits/global-styling
+  - serafits/global-js
+regions:
+  header: Header
+  content: Content
+  footer: Footer
+  page_top: Page Top
+  page_bottom: Page Bottom

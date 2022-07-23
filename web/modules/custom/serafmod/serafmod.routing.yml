@@ -1,0 +1,6 @@
+serafmod.content:
+  path: '/serafits'
+  defaults:
+    _controller: 'Drupal\serafmod\Controller\SerafController::content'
+  requirements:
+    _permission: 'access content'
